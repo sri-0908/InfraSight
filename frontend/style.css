@@ -77,6 +77,14 @@ body {
 .risk.medium {
   color: #ff9f0a;
 }
+.risk.low {
+  color: #34c759;
+}
+
+.risk.high {
+  color: #ff3b30;
+}
+
 
 /* UPLOAD */
 .upload {
@@ -104,3 +112,4 @@ footer {
   color: #6e6e73;
   font-size: 0.9rem;
 }
+
